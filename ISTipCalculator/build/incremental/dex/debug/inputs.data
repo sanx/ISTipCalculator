@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370377055000 359 66ad97eaf25e345557310625e337bf10b5a26466 /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/BuildConfig.class
+1370379330000 747 a64a4410c31cb5a68dfc0f40f5f7c718baf9a3c0 /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/R.class
+1370377038000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/libs/android-support-v4.jar
+1370381157000 1818 9af2535188497d44f8100a41eb03225b33446e72 /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/MainActivity$3.class
+1370381101000 1776 1e30391c38f683db2a2be8d2db216cb22d80fd34 /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/MainActivity.class
+1370379330000 493 e90968f39aed471567030a0a2d4a8278b0643606 /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/R$string.class
+1370379330000 424 ac8f7da197fc2554c17d40bf61fc9a8525742669 /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/R$layout.class
+1370379330000 574 8b7b71872c9d5ecdb8f04183f387e202139eeabf /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/R$id.class
+1370379330000 409 96fdb2cc5ad529ade8c61e16dc14940be2861ef4 /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/R$menu.class
+1370381157000 1818 b4f6639bc322ab31646e5e3d43386ddf511a71a0 /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/MainActivity$1.class
+1370377055000 361 acdc8e028e2a672a086c7dcc1792fb31f7a3a3e9 /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/R$attr.class
+1370379330000 452 77fa1623b1099a7aea0a8b6568c2330f171c9064 /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/R$style.class
+1370377055000 482 e12184ed0a21eeac13552de28435f685ea60bdff /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/R$dimen.class
+1370381157000 1818 973a1f656489acb4c6d4e8cf63ba8cd8bd62fc98 /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/MainActivity$2.class
+1370377055000 428 73bd7699bb07491a7f8dbeb5d513204554e96f7a /Users/germoad/AndroidStudioProjects/ISTipCalculatorProject/ISTipCalculator/build/classes/debug/com/yahoo/istipcalculator/R$drawable.class
